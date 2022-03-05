@@ -4,4 +4,4 @@
 A handy tip-calculating tool.
 
 ### App Walk-though
-<img src="https://imgur.com/a/7nvnEEn.gif" width=666><br>
+<img src="https://imgur.com/a/7nvnEEn.gif" width=630><br>
